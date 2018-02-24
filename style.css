@@ -1,0 +1,36 @@
+.container{
+    background: white;
+}
+
+.navbar-brand {
+    font-family: 'Slabo 27px', serif;
+    font-size: 25px;
+}
+
+li {
+    font-family: 'Slabo 27px', serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-family: 'Slabo 27px', serif;
+    font-size:30px;
+}
+
+h2 {
+    font-family: 'Slabo 27px', serif;
+    font-size:30px;
+}
+
+h3 {
+    font-family: 'Slabo 27px', serif;
+    font-size: 30px;
+}
+
+
+.portfolio-img{
+    padding: 10px;
+    height: 240px;
+    width: 240px;
+    filter: grayscale(100%);
+}
